@@ -1,7 +1,16 @@
-#include<bits/stdc++.h>
-using namespace std;
+          // EXAMPLE 1
+/*Input: arr = [3, 2, 1]
+Output: 0
+Explanation: There is no magic triplet. */
 
-// } Driver Code Ends
+       // EXAMPLE 2
+/*Input: arr = [1, 2, 3, 4]
+Output: 4
+Explanation: Fours magic triplets are 
+(1, 2, 3), (1, 2, 4), (1, 3, 4) and 
+(2, 3, 4).*/
+
+
 class Solution{
 	public:
 	int countTriplets(vector<int>arr){
@@ -36,10 +45,3 @@ class Solution{
 	}
 };
 
-//{ Driver Code Starts.
-int main(){
-	int tc;
-	cin >> tc;
-	while(tc--){
-		int n;
-		cin >> n;
