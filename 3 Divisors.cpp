@@ -3,6 +3,7 @@ Example 1:
 
 Input:
 q = 1
+
 query[0] = 6
 Output:
 1
