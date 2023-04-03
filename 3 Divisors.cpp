@@ -14,6 +14,7 @@ exactly three divisors 1, 2 and 4 and
 less than equal to 6.
 
 
+
 Example 2:
 
 Input:
