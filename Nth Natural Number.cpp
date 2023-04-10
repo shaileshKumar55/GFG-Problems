@@ -4,6 +4,8 @@ Given a positive integer N. You have to find Nth natural number after removing a
 
 Example 1:
 
+
+
 Input:
 N = 8
 Output:
