@@ -3,6 +3,8 @@ You are given two numbers A and B. The task is to count the number of bits neede
 
 Example 1:
 
+
+
 Input: A = 10, B = 20
 Output: 4
 Explanation:
