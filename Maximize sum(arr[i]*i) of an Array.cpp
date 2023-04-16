@@ -18,6 +18,7 @@ with minimum number and maximum index will
 multiply with maximum number. 
 So 1*0+2*1+3*2+4*3+5*4=0+2+6+12+20 = 40 mod(109+7) = 40
 
+
 Example 2:
 
 Input : Arr[] = {1, 2, 3}
