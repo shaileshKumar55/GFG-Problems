@@ -5,6 +5,7 @@ Given two numbers A and B. The task is to find out their LCM and GCD.
 
 Example 1:
 
+
 Input:
 A = 5 , B = 10
 Output:
