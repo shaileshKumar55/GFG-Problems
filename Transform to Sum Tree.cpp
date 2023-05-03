@@ -5,6 +5,7 @@ Note: You have to modify the given tree in-place.
 
 Example 1:
 
+
 Input:
              10
           /      \
