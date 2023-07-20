@@ -15,6 +15,8 @@ less than equal to 6.
 
 
 
+
+
 Example 2:
 
 Input:
